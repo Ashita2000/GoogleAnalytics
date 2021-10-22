@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-#Major Steps to get Google Analytics Certification
+# Major Steps to get Google Analytics Certification
+
 
