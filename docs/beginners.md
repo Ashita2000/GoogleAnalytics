@@ -8,7 +8,7 @@
 1. It will have the tracking code to track the number of users visited the website. 
 2. It can also collect what language the traffic is using, which device are they using, etc. 
 
-## Google Ananlytics Setup :
+## Google Analytics Setup :
 <h3> 1. Create/Sign in to Google Ananlytics Account. </h3>
 <h3>2. Set up property - Collection Points</h3>
 <h3>3. Copy and Paste Tracking code. </h3>
@@ -70,6 +70,8 @@ Demographics
 * See the full Customer Cycle
 * Enable Auto-Tagging
 * Set up Remarketting Campaigns
+
+[Advanced Google Analytics](advanced.md)
 
 
 
