@@ -49,17 +49,27 @@ Filters let you include, exclude and modify the data is collected in a view.
 <h3>9. Analyse Key Reports<br/></h3>
 Demographics
 ![Demographics](/assets/DemoGraphics.png)
-<b>Limits and Caveats</b>
+<b>Limits and Caveats</b><br/>
 	1. Campaign Tracking can be used to reduce direct/none traffic from your own email and marketting campaigns. 
 
 <h3> 10. Dashboards<br/></h3>
-* Dashboards are an easy way to see the overview of reports and metrics. See correlation b/w different reports. * <br/>
-They are easy to create, customize and share. <br/>
-We can add different widgets to the dashboards.
+* Dashboards are an easy way to see the overview of reports and metrics. See correlation b/w different reports.  <br/>
+* They are easy to create, customize and share. <br/>
+* We can add different widgets to the dashboards.
 <h4>Each ananlytics view can contain 20 dashboards per user and each dashboard can contain 12 widgets.</h4>
 
 <h3> 11. Campaign Tagging</h3>
 - Helps you determine which marketing campaigns are driving the most traffic. 
+- How to Tag Campaign Links : 
+	1. Open the Campaign URL Builder. 
+	2. Add the Campaign Tags.
+	3. Copy & Paste the Campaign URL. 
+	4. <b>Enable Auto Tagging for Google Ads</b>
+
+<h3> 12. Linking Google Ads</h3>
+* See the full Customer Cycle
+* Enable Auto-Tagging
+* Set up Remarketting Campaigns
 
 
 
