@@ -4,3 +4,4 @@ description: Google Analytics Certification
 include:
   - index.mg
   - beginners.md
+  - advanced.md
