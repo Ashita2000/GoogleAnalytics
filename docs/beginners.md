@@ -49,3 +49,18 @@ Filters let you include, exclude and modify the data is collected in a view.
 9. Analyse Key Reports<br/>
 Demographics
 ![Demographics](/assets/DemoGraphics.png)
+<b>Limits and Caveats</b>
+	1. Campaign Tracking can be used to reduce direct/none traffic from your own email and marketting campaigns. 
+
+10. Dashboards<br/>
+***Dashboards are an easy way to see the overview of reports and metrics. See correlation b/w different reports.  ***
+They are easy to create, customize and share. <br/>
+We can add different widgets to the dashboards.
+<h5>Each ananlytics view can contain 20 dashboards per user and each dashboard can contain 12 widgets.</h5>
+
+11. Campaign Tagging
+- Helps you determine which marketing campaigns are driving the most traffic. 
+ 
+
+
+
