@@ -1,4 +1,4 @@
-##Google Analytics for Beginners
+## Google Analytics for Beginners
 
 ### Why Google Analytics?
 - Succesful business decisions must be data driven. 
