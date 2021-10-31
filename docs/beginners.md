@@ -14,7 +14,7 @@
 3. Copy and Paste Tracking code. 
 4. Create Reporting Views
 ![Book logo](/assets/Views.png)
-	a. An account is the access poitn for analytics.
-	b. Property is website/App/Device.
-	c. View is the access point for reports. 
+	a. An account is the access poitn for analytics.<br/>
+	b. Property is website/App/Device.<br/>
+	c. View is the access point for reports.<br/> 
 <h5> WE NEED VIEWS FOR DATA SECURITY, DATA ACCURACY AND CONVENIENCE</h5>
