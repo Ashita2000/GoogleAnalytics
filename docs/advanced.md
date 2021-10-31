@@ -7,7 +7,7 @@
 <h4>Benefits of Custom Dimensions : </h4>
 1. Track Dimensions not available in Google Analytics. 
 2. Build reports using custom dimensions. 
-3. Ananlyse Company Specific Data. 
+3. Analyse Company Specific Data. 
 
 <h5> Setup Custom Dimensions : </h5>
 1. Add a new custom Dimension : Admin/Custom Definitions/Custom Dimensions.
@@ -28,17 +28,17 @@
 4. Cannot be deleted. 
 
 ### 2. Custom Metrics
-<b>Custom Metrics</b> let you send your own metrics to Google Ananytics for analysis. 
+<b>Custom Metrics</b> let you send your own metrics to Google Analytics for analysis. 
 
 <h5>Benefits of Custom Metrics : </h5>
 1. Track metrics not available in Google Metrics. 
 2. Build reports. 
-3. Ananyze company specific data. 
+3. Analyze company specific data. 
 
 ### 3. Event Tracking
 <b> Event Tracking allows you to capture user interactions on your site which Google Analytics does not automatically capture. </b>
 <h5>Benefits of Event Tracking : </h5>
-1. Track interactions , Google Ananlytics goal can't track. 
+1. Track interactions , Google Analytics goal can't track. 
 2. Better understand user behavior. 
 3. View event tracking reports. 
 
