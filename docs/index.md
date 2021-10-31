@@ -21,3 +21,7 @@ Now you can see the analytics like
 - If visitors are coming from Google/Facebook or other sites.
 - The country to whoch users belong
 
+[More Information](beginners.md)
+
+
+
