@@ -14,7 +14,7 @@
 2. Enter Dimension name and select Scope. 
 3. Implement the Tracking code. (GOOGLE TAG MANAGER)
 
-<b>4 major Scopes : </b></br>
+<b>4 Major Scopes : </b>
 1. Hit
 2. Session
 3. User
