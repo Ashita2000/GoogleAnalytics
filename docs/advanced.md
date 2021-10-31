@@ -14,11 +14,11 @@
 2. Enter Dimension name and select Scope. 
 3. Implement the Tracking code. (GOOGLE TAG MANAGER)
 
-<b>4 major Scopes : </b>
-	1. Hit
-	2. Session
-	3. User
-	4. Product
+<b>4 major Scopes : </b></br>
+1. Hit
+2. Session
+3. User
+4. Product
 ![Scope](/assets/Scope.png)
 
 <h5>Limits and Caveats : </h5>

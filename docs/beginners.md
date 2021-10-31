@@ -29,11 +29,11 @@ Filters let you include, exclude and modify the data is collected in a view.
 
 <h3> 5. Filters</h3>
 	1. Create a Filter : admin/filters/Create Filter
-	2. Limits and Caveats : <br/>
-		a. Filters require upto 24hrs. <br/>
-		b. Filter order doesn't matter. <br/>
-		c. Filters are destructive. <br/>
-		d. Filters cannot be applied retroactively. <br>
+	2. Limits and Caveats : 
+		a. Filters require upto 24hrs. 
+		b. Filter order doesn't matter. 
+		c. Filters are destructive. 
+		d. Filters cannot be applied retroactively. 
 <h3> 6. Goals<br/></h3>
 <b>Goals measure how often users complete an activity, called a conversion. </b><br/>
  To set up Goals : Admin/View/Goals/New Goal and then add Goal Description, enter the goal details. 
