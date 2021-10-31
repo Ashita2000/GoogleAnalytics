@@ -46,3 +46,6 @@ Filters let you include, exclude and modify the data is collected in a view.
 	5. Left-hand Navigation 
 	6. Admin
 8. Main Tools for Ananlysis
+9. Analyse Key Reports<br/>
+Demographics
+![Demographics](/assets/DemoGraphics.png)
